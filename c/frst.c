@@ -3,7 +3,7 @@ void main()
 {
 long int a;
 scanf("%ld",&a);
-if(a>0 && a<100000)
+if(a>0)
 {
 printf("Positive");
 }
